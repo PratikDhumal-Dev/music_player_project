@@ -1,0 +1,19 @@
+.musyncLogo {
+  height: 70vh;
+  object-fit: contain;
+}
+
+.musyncLogoWhite {
+  height: 8vh;
+}
+
+.musyncText {
+  height: 4vh;
+  padding-top: 25px;
+  margin-left: -25px;
+}
+
+.musyncLogo1 {
+  display: flex;
+  padding-bottom: 10px;
+}
