@@ -93,6 +93,7 @@ class App extends Component {
           <div className="left-side-section">
             <SideMenu />
             <UserPlaylists />
+            <ArtWork />
           </div>
           <div className="main-section">
             <Header />
